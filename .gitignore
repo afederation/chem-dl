@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+0;256;0c__pycache__/
 *.py[cod]
 
 # C extensions
@@ -81,6 +81,7 @@ target/
 
 # models are also too large to store in github
 /models/
+*.pth
 
 # Mac OS-specific storage files
 .DS_Store
